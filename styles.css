@@ -1,11 +1,12 @@
 body {
-  background-color: powderblue;
+  font-family: monospace;
+  background-color: navajowhite;
 }
 
 h1 {
-  color: blue;
+  color: mediumvioletred;
 }
 
 p {
-  color: red;
+    color: palevioletred;
 }
