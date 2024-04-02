@@ -1,12 +1,31 @@
 body {
   font-family: monospace;
+}
+
+.content {
+  overflow: auto;
+}
+
+.card {
   background-color: navajowhite;
+  border-radius: 7px;
+  padding: 12px;
+  margin: 12px;
+  width: fit-content;
+  height: fit-content;
+  float: left;
 }
 
 h1 {
   color: mediumvioletred;
 }
 
-p {
-    color: palevioletred;
+h2 {
+  color: mediumvioletred;
 }
+
+p {
+  color: palevioletred;
+}
+
+
