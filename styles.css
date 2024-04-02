@@ -2,6 +2,18 @@ body {
   font-family: monospace;
 }
 
+h1 {
+  color: mediumvioletred;
+}
+
+h2 {
+  color: mediumvioletred;
+}
+
+p {
+  color: palevioletred;
+}
+
 .content {
   overflow: auto;
 }
@@ -14,16 +26,4 @@ body {
   width: fit-content;
   height: fit-content;
   float: left;
-}
-
-h1 {
-  color: mediumvioletred;
-}
-
-h2 {
-  color: mediumvioletred;
-}
-
-p {
-  color: palevioletred;
 }
