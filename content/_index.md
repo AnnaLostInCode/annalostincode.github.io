@@ -1,1 +1,1 @@
-This is where I post my Passerelle Notes and some other shenanigans.
+This is where I post my Notes and some other shenanigans.
