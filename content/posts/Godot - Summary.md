@@ -1,3 +1,9 @@
++++
+title = 'Godot - Summary'
+date = 2024-10-21T11:34:25+02:00
+draft = false
++++
+
 I am doing a tutorial by Clear Code and this is my summary of Godot.
 >[Tutorial](https://youtu.be/nAh_Kx5Zh5Q)
 
