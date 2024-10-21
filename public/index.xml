@@ -2,37 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AnnaLostInCode</title>
-    <link>/</link>
-    <description>AnnaLostInCode</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <link>https://example.org/</link>
+    <description>Recent content on AnnaLostInCode</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    
-
-    
-    <lastBuildDate>Mon, 07 Oct 2024 17:11:25 +0200</lastBuildDate>
-    
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 21 Oct 2024 11:34:25 +0100</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Godot - Summary</title>
+      <link>https://example.org/posts/godot---summary/</link>
+      <pubDate>Mon, 21 Oct 2024 11:34:25 +0100</pubDate>
+      <guid>https://example.org/posts/godot---summary/</guid>
+      <description>&lt;p&gt;I am doing a tutorial by Clear Code and this is my summary of Godot.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/nAh_Kx5Zh5Q&#34;&gt;Tutorial&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;scenes-and-nodes&#34;&gt;Scenes and Nodes&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;For every scene you need a root node.&lt;/li&gt;&#xA;&lt;li&gt;After that you can add as many Scenes and Nodes as you want&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;ready-function&#34;&gt;ready function&lt;/h2&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-gdscript&#34; data-lang=&#34;gdscript&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff5c57&#34;&gt;func&lt;/span&gt; &lt;span style=&#34;color:#57c7ff&#34;&gt;_ready&lt;/span&gt;():&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#x9;&lt;span style=&#34;color:#ff6ac1&#34;&gt;pass&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The ready function runs every time the node is instantiated. In that sense it is kinda like a constructor.&lt;/p&gt;&#xA;&lt;h2 id=&#34;process-function&#34;&gt;process function&lt;/h2&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-gdscript&#34; data-lang=&#34;gdscript&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff5c57&#34;&gt;func&lt;/span&gt; &lt;span style=&#34;color:#57c7ff&#34;&gt;_process&lt;/span&gt;(delta):&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#x9;&lt;span style=&#34;color:#ff5c57&#34;&gt;print&lt;/span&gt;(&lt;span style=&#34;color:#5af78e&#34;&gt;&amp;#34;I run every frame&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#x9;&lt;span style=&#34;color:#ff6ac1&#34;&gt;pass&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The process function is run every frame.&lt;/p&gt;</description>
+    </item>
     <item>
       <title></title>
-      <link>/posts/emptypost/</link>
+      <link>https://example.org/posts/emptypost/</link>
       <pubDate>Mon, 07 Oct 2024 17:11:25 +0200</pubDate>
-      
-      <guid>/posts/emptypost/</guid>
-      <description>&lt;p&gt;this is an empty post&lt;/p&gt;
-</description>
+      <guid>https://example.org/posts/emptypost/</guid>
+      <description>&lt;p&gt;this is an empty post&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>My own Website 🎉</title>
-      <link>/posts/create-my-own-website/</link>
+      <link>https://example.org/posts/create-my-own-website/</link>
       <pubDate>Mon, 07 Oct 2024 17:11:25 +0200</pubDate>
-      
-      <guid>/posts/create-my-own-website/</guid>
-      <description>&lt;p&gt;I just created my own blog website. Let&amp;rsquo;s see what I&amp;rsquo;ll do with it. :)&lt;/p&gt;
-</description>
+      <guid>https://example.org/posts/create-my-own-website/</guid>
+      <description>&lt;p&gt;I just created my own blog website. Let&amp;rsquo;s see what I&amp;rsquo;ll do with it. :)&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
