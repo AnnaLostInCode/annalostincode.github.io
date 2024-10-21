@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "0204706e8ddf3bfa",
+    "type": "split",
+    "children": [
+      {
+        "id": "8405ba2f7d797900",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1387094d9d104b5",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "content/posts/Godot - Summary.md",
+                "staged": true
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (Godot - Summary)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e4710873fb5c632",
+    "type": "split",
+    "children": [
+      {
+        "id": "616d0ff0fa5bc9ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9f1bc4fc949e6e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7754c556145e7bd2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "871fbad6d290022f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a4b4c3051487531f",
+    "type": "split",
+    "children": [
+      {
+        "id": "92e1b96f4d602f7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "949edf5782c549f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "e57ebe4f2728cad6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "79385e4354eaaf32",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "91778e071a5def64",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "7c7b74d8798a7c89",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "d9f1bc4fc949e6e3",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "content/posts/Godot - Summary.md",
+    "content/_index.md",
+    "content/about/_index.md",
+    "content/Untitled.md",
+    "content/posts/Create my own Website.md",
+    "themes/anubis2",
+    "themes",
+    "script.js",
+    "public/website/welcome/index.html",
+    "public/website/untitled/index.html",
+    "public/website/test/index.html",
+    "public/website/2024-10-07/index.html",
+    "public/templates/untitled/index.html",
+    "public/templates/post/index.html",
+    "public/templates/date-post/index.html",
+    "content/posts/_index.md",
+    "content/posts/emptypost.md",
+    "content/passerelle/_index.md",
+    "archetypes/default.md"
+  ]
+}
