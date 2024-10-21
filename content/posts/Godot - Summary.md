@@ -69,5 +69,6 @@ signal laser_shot(direction: Vector2, speed: int)
 To emit the signal you can use the emit() method:
 
 ``` gdscript
-laser_shot.emit(Vector2.UP, 200)
+func _process(delta):
+	laser_shot.emit(Vector2.UP, 200 * delta)
 ```
