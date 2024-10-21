@@ -1,8 +1,10 @@
-+++
-title = 'Godot - Summary'
-date = 2024-10-21T11:11:25+02:00
-tags = 'Coding'
-+++
+{
+   "title": "Godot - Summary",
+   "date": "2024-10-21T11:14:54+01:00",
+   "params": {
+      "author": "AnnaLostInCode"
+   }
+}
 
 I am doing a tutorial by Clear Code and this is my summary of Godot.
 >[Tutorial](https://youtu.be/nAh_Kx5Zh5Q)

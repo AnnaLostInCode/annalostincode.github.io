@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8405ba2f7d797900",
+        "id": "a411a5aa6877086f",
         "type": "tabs",
         "children": [
           {
-            "id": "a1387094d9d104b5",
+            "id": "beb9bb60107680eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/Godot - Summary.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Godot - Summary"
+              "title": "New tab"
             }
           }
         ]
@@ -157,11 +153,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a1387094d9d104b5",
+  "active": "beb9bb60107680eb",
   "lastOpenFiles": [
+    "archetypes/default.md",
     "content/posts/emptypost.md",
-    "content/posts/Create my own Website.md",
     "content/posts/Godot - Summary.md",
+    "content/posts/Create my own Website.md",
     "README.md",
     "content/posts/_index.md",
     "Untitled.md",
@@ -178,7 +175,6 @@
     "public/templates/untitled/index.html",
     "public/templates/post/index.html",
     "public/templates/date-post/index.html",
-    "content/passerelle/_index.md",
-    "archetypes/default.md"
+    "content/passerelle/_index.md"
   ]
 }
