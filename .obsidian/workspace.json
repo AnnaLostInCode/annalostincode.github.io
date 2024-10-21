@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/Create my own Website.md",
+                "file": "content/posts/Godot - Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Create my own Website"
+              "title": "Godot - Summary"
             }
           }
         ]
@@ -160,8 +160,8 @@
   "active": "a1387094d9d104b5",
   "lastOpenFiles": [
     "content/posts/emptypost.md",
-    "content/posts/Godot - Summary.md",
     "content/posts/Create my own Website.md",
+    "content/posts/Godot - Summary.md",
     "README.md",
     "content/posts/_index.md",
     "Untitled.md",
