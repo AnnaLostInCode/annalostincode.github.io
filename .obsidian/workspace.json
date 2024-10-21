@@ -172,8 +172,9 @@
   "active": "a1387094d9d104b5",
   "lastOpenFiles": [
     "content/posts/Create my own Website.md",
-    "README.md",
+    "content/posts/emptypost.md",
     "content/posts/Godot - Summary.md",
+    "README.md",
     "content/posts/_index.md",
     "Untitled.md",
     "content/_index.md",
@@ -189,7 +190,6 @@
     "public/templates/untitled/index.html",
     "public/templates/post/index.html",
     "public/templates/date-post/index.html",
-    "content/posts/emptypost.md",
     "content/passerelle/_index.md",
     "archetypes/default.md"
   ]
