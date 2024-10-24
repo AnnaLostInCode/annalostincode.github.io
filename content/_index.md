@@ -1,1 +1,1 @@
-This is where I post my Notes and other stuff
+This is where I post my notes and other stuff

@@ -1,6 +1,6 @@
 +++
 title = ''
-date = 2024-10-07T17:11:25+02:00
+date = 2024-10-07
 +++
 
 this is an empty post
