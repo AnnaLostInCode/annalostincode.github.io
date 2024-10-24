@@ -35,7 +35,8 @@
               "title": "nodes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,16 +184,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a1387094d9d104b5",
+  "active": "e518fad72723c25f",
   "lastOpenFiles": [
-    "content/posts/nodes.md",
+    "content/posts/emptypost.md",
     "content/posts/Godot - Summary.md",
+    "content/posts/nodes.md",
+    "content/posts/Create my own Website.md",
     "'Deep.md",
     "Deep.md",
     "content/_index.md",
     "content/posts/Deep dive into nodes.md",
-    "content/posts/emptypost.md",
-    "content/posts/Create my own Website.md",
     "conflict-files-obsidian-git.md",
     "content/posts/_index.md",
     "Untitled.md",
