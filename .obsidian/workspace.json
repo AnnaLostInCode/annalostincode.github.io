@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/about/_index.md",
+                "file": "content/godot/Godot - Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "Godot - Summary"
             }
           },
           {
@@ -186,9 +186,9 @@
   "active": "5e401d5580c5d672",
   "lastOpenFiles": [
     "content/godot/_index.md",
-    "content/about/_index.md",
     "content/godot/Nodes in detail.md",
     "content/godot/Godot - Summary.md",
+    "content/about/_index.md",
     "content/posts/My own Website 🎉.md",
     "content/posts/emptypost.md",
     "content/_index.md",
