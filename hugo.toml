@@ -1,4 +1,4 @@
-baseURL = 'https://annalostincode.github.io/'
+baseURL = 'https://localhost:1313/'
 languageCode = 'en-us'
 title = 'AnnaLostInCode'
 theme = "anubis2"

@@ -181,8 +181,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5e401d5580c5d672",
+  "active": "7c7b74d8798a7c89",
   "lastOpenFiles": [
+    "hugo.toml~",
+    "content/godot/test.md",
     "content/godot/_index.md",
     "content/godot/Nodes in detail.md",
     "content/godot/Godot - Summary.md",
@@ -194,7 +196,6 @@
     "README.md",
     "content/passerelle/_index.md",
     "content/posts/_index.md",
-    "hugo.toml~",
     "content/godot",
     "'Deep.md",
     "Deep.md",
