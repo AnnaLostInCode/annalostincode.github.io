@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/godot/Godot - Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "Godot - Summary"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Nodes in detail"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,14 +183,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c7b74d8798a7c89",
+  "active": "5e401d5580c5d672",
   "lastOpenFiles": [
-    "content/godot/Godot - Summary.md",
     "content/_index.md",
+    "content/godot/Nodes in detail.md",
+    "content/godot/Godot - Summary.md",
     "README.md",
     "content/posts/emptypost.md",
     "content/godot/_index.md",
-    "content/godot/Nodes in detail.md",
     "content/passerelle/_index.md",
     "content/posts/_index.md",
     "hugo.toml~",
