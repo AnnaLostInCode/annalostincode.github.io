@@ -20,19 +20,6 @@
               "icon": "lucide-file",
               "title": "Godot - Summary"
             }
-          },
-          {
-            "id": "660a5578a6593bc7",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "content/posts/Godot - Summary.md",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (Godot - Summary)"
-            }
           }
         ]
       }
@@ -184,9 +171,10 @@
   },
   "active": "a1387094d9d104b5",
   "lastOpenFiles": [
+    "content/posts/emptypost.md",
+    "content/posts/Create my own Website.md",
     "content/posts/Godot - Summary.md",
     "conflict-files-obsidian-git.md",
-    "content/posts/Create my own Website.md",
     "content/posts/_index.md",
     "Untitled.md",
     "content/_index.md",
@@ -202,7 +190,6 @@
     "public/templates/untitled/index.html",
     "public/templates/post/index.html",
     "public/templates/date-post/index.html",
-    "content/posts/emptypost.md",
     "content/passerelle/_index.md",
     "archetypes/default.md"
   ]
