@@ -3,9 +3,6 @@ title = 'Godot - Summary'
 date = 2024-10-21T11:34:25+01:00
 +++
 
-I am doing a tutorial by Clear Code and this is my summary of Godot.
->[Tutorial](https://youtu.be/nAh_Kx5Zh5Q)
-
 ## Scenes and Nodes
 Every scene requires a root node. After the root node, as many nodes and scenes as needed, can be added. 
 
@@ -22,7 +19,7 @@ func _on_player_laser():
 
 > In a real scenario, there is probably quite a lot of configuration happening between the instantiation and adding the child to the node tree.
 
-I will go into detail about specific nodes in a [separate post](nodes). 
+I will go into detail about specific nodes in a [separate post](nodes.md). 
 
 ## ready function
 The ready function runs every time the node is instantiated. In that sense it is kind of like a constructor.
