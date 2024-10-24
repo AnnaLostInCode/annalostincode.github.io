@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "_index"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/godot/Godot - Summary.md",
+                "file": "content/godot/Nodes in detail.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Godot - Summary"
+              "title": "Nodes in detail"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,17 +184,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5e401d5580c5d672",
+  "active": "7c7b74d8798a7c89",
   "lastOpenFiles": [
+    "content/godot/Godot - Summary.md",
+    "content/_index.md",
+    "README.md",
     "content/posts/emptypost.md",
     "content/godot/_index.md",
-    "content/godot/nodes.md",
-    "content/godot/Godot - Summary.md",
+    "content/godot/Nodes in detail.md",
     "content/passerelle/_index.md",
     "content/posts/_index.md",
-    "content/_index.md",
     "hugo.toml~",
-    "README.md",
     "content/godot",
     "content/posts/Create my own Website.md",
     "'Deep.md",
