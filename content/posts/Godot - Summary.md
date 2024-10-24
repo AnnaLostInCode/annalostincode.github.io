@@ -8,9 +8,8 @@ I am doing a tutorial by Clear Code and this is my summary of Godot.
 >[Tutorial](https://youtu.be/nAh_Kx5Zh5Q)
 
 ## Scenes and Nodes
-
-- For every scene you need a root node.
-- After that you can add as many Scenes and Nodes as you want
+- Every scene requires a root node
+- After the root node, as many nodes and scenes as needed, can be added
 
 ## ready function
 
@@ -60,15 +59,18 @@ func _process(_delta):
 
 Signals are methods that run when a certion action happens to a node. For example a body entering an area node or a timer running out or a collision of two nodes.
 
-There are preset signals for the nodes you choose. Timers for example have a timeout() signal. But you can also create your own signals, similar to defining a global variable in a node script, like this:
+There are predefined signals one can choose from. Timer Nodes for example come with a timeout signal. Defining custom signals is also an option, it works similar to defining a global variable in a node script and looks like this:
 
 ``` gdscript
 signal laser_shot(direction: Vector2, speed: int)
 ```
 
-To emit the signal you can use the emit() method:
+To emit the signal the emit() method is used:
 
 ``` gdscript
 func _process(delta):
 	laser_shot.emit(Vector2.UP, 200 * delta)
 ```
+
+## User Input
+Handling user input 
