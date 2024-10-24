@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AnnaLostInCode</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/godot/</link>
     <description>Recent content on AnnaLostInCode</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 24 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/godot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nodes in detail</title>
       <link>http://localhost:1313/godot/nodes-in-detail/</link>
@@ -16,32 +16,11 @@
       <description>&lt;p&gt;This is about nodes&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Physik Repetition</title>
-      <link>http://localhost:1313/passerelle/physik-repetition/</link>
-      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/passerelle/physik-repetition/</guid>
-      <description>&lt;p&gt;Seite für Physik Repetition.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Godot - Summary</title>
       <link>http://localhost:1313/godot/godot---summary/</link>
       <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/godot/godot---summary/</guid>
       <description>&lt;h2 id=&#34;scenes-and-nodes&#34;&gt;Scenes and Nodes&lt;/h2&gt;&#xA;&lt;p&gt;Every scene requires a root node. After the root node, as many nodes and scenes as needed, can be added.&lt;/p&gt;&#xA;&lt;p&gt;Scenes can be dynamically created and added via script. To create a scene, it needs to be preloaded, instantiate and added to the node tree. An example of this looks like this:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-gdscript&#34; data-lang=&#34;gdscript&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff5c57&#34;&gt;var&lt;/span&gt; laser_scene: &lt;span style=&#34;color:#f3f99d&#34;&gt;PackedScene&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ff5c57&#34;&gt;preload&lt;/span&gt;(res:&lt;span style=&#34;color:#ff6ac1&#34;&gt;//&lt;/span&gt;scenes&lt;span style=&#34;color:#ff6ac1&#34;&gt;/&lt;/span&gt;laser&lt;span style=&#34;color:#ff6ac1&#34;&gt;.&lt;/span&gt;tscn)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff5c57&#34;&gt;func&lt;/span&gt; &lt;span style=&#34;color:#57c7ff&#34;&gt;_on_player_laser&lt;/span&gt;():&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#x9;&lt;span style=&#34;color:#ff5c57&#34;&gt;var&lt;/span&gt; laser: &lt;span style=&#34;color:#f3f99d&#34;&gt;Node&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;=&lt;/span&gt; laser_scene&lt;span style=&#34;color:#ff6ac1&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color:#57c7ff&#34;&gt;instantiate&lt;/span&gt;()&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#x9;&lt;span style=&#34;color:#57c7ff&#34;&gt;add_child&lt;/span&gt;(laser)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;blockquote&gt;&#xA;&lt;p&gt;In a real scenario, there is probably quite a lot of configuration happening between the instantiation and adding the child to the node tree.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/posts/emptypost/</link>
-      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/emptypost/</guid>
-      <description>&lt;p&gt;this is an empty post&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My own Website 🎉</title>
-      <link>http://localhost:1313/posts/my-own-website-/</link>
-      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-own-website-/</guid>
-      <description>&lt;p&gt;I just created my own blog website. Let&amp;rsquo;s see what I&amp;rsquo;ll do with it. :)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
