@@ -182,15 +182,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d285b4d8409da666",
+  "active": "d9f1bc4fc949e6e3",
   "lastOpenFiles": [
-    "content/godot/Nodes in detail.md",
+    "content/posts/godot/Nodes in detail.md",
     "content/posts/My own Website 🎉.md",
     "content/posts/Linux - simplified.md",
     "content/godot/test.md",
-    "content/godot/Godot - Summary.md",
+    "content/posts/godot/Godot - Summary.md",
     "hugo.toml~",
-    "content/godot/_index.md",
+    "content/posts/godot/_index.md",
     "content/about/_index.md",
     "content/posts/emptypost.md",
     "content/_index.md",
@@ -198,7 +198,7 @@
     "README.md",
     "content/passerelle/_index.md",
     "content/posts/_index.md",
-    "content/godot",
+    "content/posts/godot",
     "'Deep.md",
     "Deep.md",
     "content/posts/Deep dive into nodes.md",
