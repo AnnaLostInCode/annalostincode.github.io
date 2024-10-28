@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/emptypost.md",
+                "file": "content/posts/Linux - simplified.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "emptypost"
+              "title": "Linux - simplified"
             }
           }
         ],
@@ -184,6 +184,7 @@
   },
   "active": "d285b4d8409da666",
   "lastOpenFiles": [
+    "content/posts/emptypost.md",
     "content/posts/Linux - simplified.md",
     "hugo.toml~",
     "content/posts/godot/Nodes in detail.md",
@@ -192,7 +193,6 @@
     "content/posts/godot/Godot - Summary.md",
     "content/posts/godot/_index.md",
     "content/about/_index.md",
-    "content/posts/emptypost.md",
     "content/_index.md",
     "content/passerelle/Physik Repetition.md",
     "README.md",
