@@ -18,6 +18,5 @@ Utilities like `ls`, `grep` and `make` are all implemented both in GNU and Unix.
 
 Linux was originally developed for personal computers. Nowadays it is also used for smartphones, servers, fridges and so on. It runs on more platforms than any other operating system. 
 
-## Something something
 
 
