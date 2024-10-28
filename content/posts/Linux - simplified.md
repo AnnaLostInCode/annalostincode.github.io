@@ -4,7 +4,7 @@ date = 2024-10-28
 draft = true
 +++
 
-This is a simple and compact summary on what linux is and how to use it. In this case I'll be talking about Ubuntu. 
+This is a simple and compact summary on what Linux is and how to use it. In this case I'll be talking about Ubuntu. 
 
 ## History Lesson
 
