@@ -13,5 +13,6 @@ If we talk about Linux we usually mean operating systems which are based on the 
 A lot of this system software is provided by the GNU Project. GNU stands for "GNU's not Unix!" and is a big collaboration project for free software. The purpose of GNU was to replace everything Unix offers for free. While GNU could run Unix programs it wasn't exactly the same and added some improvements like a crash proof file system. 
 
 > Free is not necessarily meant as in no cost. More so it is meant as without restriction to copy, edit and distribute said program. 
+> Utilities like `ls`, `grep` and `make` are all implemented both in GNU and Unix.
 
 
