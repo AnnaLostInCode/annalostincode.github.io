@@ -13,3 +13,6 @@ If we talk about Linux we usually mean operating systems which are based on the 
 A lot of this system software is provided by the GNU Project. GNU stands for "GNU's not Unix!" and is a big collaboration project for free software.
 
 
+> Unix, is a 
+
+
