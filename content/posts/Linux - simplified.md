@@ -16,7 +16,8 @@ Utilities like `ls`, `grep` and `make` are all implemented both in GNU and Unix.
 
 > Free is not necessarily meant as in no cost. More so it is meant as without restriction to copy, edit and distribute said program. 
 
-Linux was originally developed for personal computers. Nowadays it is used for smartphones, servers, fridges and so on. It runs on more platforms than any other operating system. 
+Linux was originally developed for personal computers. Nowadays it is also used for smartphones, servers, fridges and so on. It runs on more platforms than any other operating system. 
+
 ## Something something
 
 
