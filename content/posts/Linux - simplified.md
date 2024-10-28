@@ -1,4 +1,5 @@
 +++
-title = 'Linux - simp'
-date = 2024-10-07
+title = 'Linux - simplified'
+date = 2024-10-28
 +++
+
