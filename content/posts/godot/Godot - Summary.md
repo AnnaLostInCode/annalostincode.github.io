@@ -91,7 +91,7 @@ func _process(_delta):
 ## Tile Maps
 TileMaps contain a sample of tiles, which are used to create grid based maps. It needs to contain every single possible tile. For example every straight and every curve in each direction for a wall. 
 
-Tile maps can have several Layers. That means a TileMap for a house can have the ground and the walls and with layers it's possible to place both on the same grid. In the TileSet Physics Layers can be defined and collision shapes drawn. 
+Tile maps can have several Layers. That means a TileMap for a house can have the ground and the walls and with layers it's possible to place both on the same grid. In the TileSet physics layers can be defined and collision shapes drawn. 
 
 An example of a TileMap can look like this:
 
