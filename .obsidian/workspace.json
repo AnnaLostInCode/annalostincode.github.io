@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/godot/Godot - Summary.md",
+                "file": "content/posts/emptypost.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Godot - Summary"
+              "title": "emptypost"
             }
           }
         ],
@@ -184,15 +184,15 @@
   },
   "active": "d285b4d8409da666",
   "lastOpenFiles": [
+    "hugo.toml~",
+    "content/posts/godot/Godot - Summary.md",
     "content/resources/Dungeon_Tileset.png",
     "content/resources",
     "content/posts/Linux - simplified.md",
     "content/posts/emptypost.md",
-    "hugo.toml~",
     "content/posts/godot/Nodes in detail.md",
     "content/posts/My own Website 🎉.md",
     "content/godot/test.md",
-    "content/posts/godot/Godot - Summary.md",
     "content/posts/godot/_index.md",
     "content/about/_index.md",
     "content/_index.md",
