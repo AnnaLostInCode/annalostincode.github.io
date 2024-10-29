@@ -1,3 +1,3 @@
-# annalostincode.github.io
+This is the code for my github pages site. See [here](https://annalostincode.github.io/)
 
-This is the code for my website, where I post my notes. It mainly serves for a place where I can access my notes, but if it be
+Everything is done with [hugo](https://gohugo.io/) and the [anubis2]() theme.
