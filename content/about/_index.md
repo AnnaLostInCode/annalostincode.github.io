@@ -20,6 +20,7 @@ I am a programmer, gamer, boulderer and this is my website.
 | 2022 - 2024 | Berufsmaturität 2 TALS  |
 
 
+
 | Year        | Employment                      |
 | ----------- | ------------------------------- |
 | 2018 - 2022 | Lehre Informatiker EFZ @ SBB 🚂 |
