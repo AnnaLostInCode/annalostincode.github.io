@@ -87,3 +87,9 @@ func _process(_delta):
 	if Input.is_action_pressed("left"):
 		print("I am pressing left")
 ```
+
+## Tile Maps
+
+
+## Collision Layers and Masks
+Collision Layers and Masks help to determine which CollisionObject can collide with which other CollisionObject. The Layers are named numerically, but can be given an alternative name in the project settings. 

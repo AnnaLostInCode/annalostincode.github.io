@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/Linux - simplified.md",
+                "file": "content/posts/godot/Godot - Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux - simplified"
+              "title": "Godot - Summary"
             }
           }
         ],
@@ -184,8 +184,8 @@
   },
   "active": "d285b4d8409da666",
   "lastOpenFiles": [
-    "content/posts/emptypost.md",
     "content/posts/Linux - simplified.md",
+    "content/posts/emptypost.md",
     "hugo.toml~",
     "content/posts/godot/Nodes in detail.md",
     "content/posts/My own Website 🎉.md",
