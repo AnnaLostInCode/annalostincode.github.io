@@ -26,7 +26,7 @@ I am a programmer, gamer, boulderer and this is my website.
 | 2018 - 2022 | Lehre Informatiker EFZ @ SBB 🚂 |
 | 2022 - Now  | BizDevOps @ SBB 🚂              |
 
-## Contact
+## ☎ Contact
 
 - 🔗 <anna.emmenegger.xs@gmail.com>
 - 🔗 [Bluesky](https://bsky.app/profile/annalostinspace.bsky.social)
