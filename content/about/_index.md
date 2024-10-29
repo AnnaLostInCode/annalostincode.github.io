@@ -19,7 +19,7 @@ I am a programmer, gamer, boulderer and this is my website.
 | 2018 - 2022 | Informatiker EFZ (GIBB) |
 | 2022 - 2024 | Berufsmaturität 2 TALS  |
 
-## Employment
+## 🧰 Employment
 
 | Year        | Employment                      |
 | ----------- | ------------------------------- |
