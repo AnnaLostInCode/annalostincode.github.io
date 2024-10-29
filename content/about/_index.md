@@ -13,7 +13,7 @@ I am a programmer, gamer, boulderer and this is my website.
 
 - Getting into Godot
 
-## 📚 Education & Employ
+## 📚 Education & Employment
 ---
 
 | Year        | Education               |
@@ -21,9 +21,6 @@ I am a programmer, gamer, boulderer and this is my website.
 | 2008 - 2018 | Grundschule             |
 | 2018 - 2022 | Informatiker EFZ (GIBB) |
 | 2022 - 2024 | Berufsmaturität 2 TALS  |
-
-## 🧰 Employment
----
 
 | Year        | Employment                      |
 | ----------- | ------------------------------- |
