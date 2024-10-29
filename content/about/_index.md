@@ -29,5 +29,5 @@ I am a programmer, gamer, boulderer and this is my website.
 
 ## Contact
 ---
-- 🔗 [Mail](anna.emmenegger.xs@gmail.com)
+- 🔗 <anna.emmenegger.xs@gmail.com>
 - 🔗 [Bluesky](https://bsky.app/profile/annalostinspace.bsky.social)
