@@ -184,6 +184,8 @@
   },
   "active": "d285b4d8409da666",
   "lastOpenFiles": [
+    "content/resources/Dungeon_Tileset.png",
+    "content/resources",
     "content/posts/Linux - simplified.md",
     "content/posts/emptypost.md",
     "hugo.toml~",
@@ -212,7 +214,6 @@
     "public/website/untitled/index.html",
     "public/website/test/index.html",
     "public/website/2024-10-07/index.html",
-    "public/templates/untitled/index.html",
     "archetypes/default.md"
   ]
 }
