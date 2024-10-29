@@ -21,10 +21,6 @@ url = "https://github.com/AnnaLostInCode"
 
 [[params.social]]
 id = "twitter"
-url = "https://x.com/AnnaL0stInSpace"
-
-[[params.social]]
-id = "twitter"
 url = "https://bsky.app/profile/annalostinspace.bsky.social"
 
 
