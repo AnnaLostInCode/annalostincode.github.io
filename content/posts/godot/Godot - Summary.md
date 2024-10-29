@@ -44,11 +44,11 @@ To ensure that values, which are modified every time the process function is cal
 
 To ensure the game is running the same speed for every pc we multiply by delta. The amount of pixel of movement are at every framerate 10px/s, but for higher framerates the movement per frame is smaller to compensate. 
 
-| speed | fps | delta | original movement | normalized movement     |
-| ----- | --- | ----- | ----------------- | ----------------------- |
-| 10px  | 30  | 1/30  | 10 * 30 = 300     | 10 \* 30 \* 1/30 = 10   |
-| 10px  | 60  | 1/60  | 10 * 60 = 600     | 10 \* 60 \* 1/60 = 10   |
-| 10px  | 120 | 1/120 | 10 * 120 = 120    | 10 \* 120 \* 1/120 = 10 |
+| desired speed | fps | delta | original movement       | normalized movement                  |
+| ------------- | --- | ----- | ----------------------- | ------------------------------------ |
+| 10px          | 30  | 1/30  | 10px * 30fps = 300px/s  | 10px \* 30fps \* 1s/30fps = 10px/s   |
+| 10px          | 60  | 1/60  | 10px * 60fps = 600px/s  | 10px \* 60fps \* 1s/60fps = 10px/s   |
+| 10px          | 120 | 1/120 | 10px * 120fps = 120px/s | 10px \* 120fps \* 1s/120fps = 10px/s |
 
 ## Input
 Inputs can be assigned to actions in the project settings. Later actions can be checked with the Input field. One example being:
