@@ -1,9 +1,11 @@
-## Hi there 👋
+## 👋 Hi there
+---
+
 I am a programmer, gamer, boulderer and this is my website. 
-Contact
-- 🔗 [Twitter](https://twitter.com/AnnaL0stInSpace)
 
 ## ⚙ Technologies
+---
+
 - Java, Spring Boot, Maven
 - MongoDB, PostgreSQL
 - Basics of Python, C#
@@ -11,7 +13,8 @@ Contact
 
 - Getting into Godot
 
-## 📚 Education
+## 📚 Education & Employ
+---
 
 | Year        | Education               |
 | ----------- | ----------------------- |
@@ -19,9 +22,15 @@ Contact
 | 2018 - 2022 | Informatiker EFZ (GIBB) |
 | 2022 - 2024 | Berufsmaturität 2 TALS  |
 
-🧰 Employment
+## 🧰 Employment
+---
 
-| Year | Employment |
-| ---- | --------- |
-| 2018 - 2022 | Lehre Informatiker EFZ @ SBB 🚂|
-| 2022 - Now | BizDevOps @ SBB 🚂 |
+| Year        | Employment                      |
+| ----------- | ------------------------------- |
+| 2018 - 2022 | Lehre Informatiker EFZ @ SBB 🚂 |
+| 2022 - Now  | BizDevOps @ SBB 🚂              |
+
+## Contact
+---
+- 🔗 [Mail](anna.emmenegger.xs@gmail.com)
+- 🔗 [Bluesky](https://bsky.app/profile/annalostinspace.bsky.social)
