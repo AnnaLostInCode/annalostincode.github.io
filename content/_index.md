@@ -1,1 +1,1 @@
-This is where I post my notes and other stuff
+This is where most things I post will appear. For specific topics check the menu. 
