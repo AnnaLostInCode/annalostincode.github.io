@@ -15,12 +15,9 @@ style = 'base16-snazzy' # Highlight.js style
 readMore = true
 
 
-
-
 [[params.social]]
 id = "github"
 url = "https://github.com/AnnaLostInCode"
-
 
 [[params.social]]
 id = "twitter"
