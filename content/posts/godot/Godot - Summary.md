@@ -95,7 +95,7 @@ Tile maps can have several Layers. That means a TileMap for a house can have the
 
 An example of a TileMap can look like this:
 
-![tilemap Example](/content/resources/Dungeon_Tileset.png)
+![tilemap Example](https://raw.githubusercontent.com/AnnaLostInCode/annalostincode.github.io/0de7bc50782e02efdc89cf224fdb22a574232827/content/resources/Dungeon_Tileset.png)
 
 ## Collision Layers and Masks
 Collision Layers and Masks help to determine which CollisionObject can collide with which other CollisionObject. The Layers are named numerically, but can be given an alternative name in the project settings under Layer Names -> 2D Physics. 
