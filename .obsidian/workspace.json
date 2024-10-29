@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/godot/Godot - Summary.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Godot - Summary"
+              "title": "README"
             }
           }
         ]
@@ -169,9 +169,9 @@
   },
   "active": "d285b4d8409da666",
   "lastOpenFiles": [
+    "content/posts/godot/Godot - Summary.md",
     "hugo.toml~",
     "content/posts/website.md",
-    "content/posts/godot/Godot - Summary.md",
     "content/posts/godot/Nodes in detail.md",
     "content/posts/emptypost.md",
     "content/resources/Dungeon_Tileset.png",

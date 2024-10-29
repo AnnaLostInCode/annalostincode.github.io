@@ -1,3 +1,3 @@
 # annalostincode.github.io
-This is where I experiment and try some web stuff. So it is not a stable website at all.
-I might make it more stable someday.
+
+This is the code for my website, where I post my notes. It mainly serves for a place where I can access my notes, 
