@@ -19,7 +19,7 @@ func _on_player_laser():
 
 > In a real scenario, there is probably quite a lot of configuration happening between the instantiation and adding the child to the node tree.
 
-I will go into detail about specific nodes in a [separate post](https://annalostincode.github.io/posts/godot/nodes-in-detail/). 
+I will go into detail about specific nodes in a separate post.
 
 ## ready function
 The ready function runs every time the node is instantiated. In that sense it is kind of like a constructor.
