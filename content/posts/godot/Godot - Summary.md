@@ -91,9 +91,10 @@ func _process(_delta):
 ## Tile Maps
 TileMaps contain a sample of tiles, which are used to create grid based maps. It needs to contain every single possible tile. For example every straight and every curve in each direction for a wall. 
 
-Tile maps can have several Layers. That means a TileMap for a house can have the ground and the walls and with layers it's possible to place both on the same grid.
+Tile maps can have several Layers. That means a TileMap for a house can have the ground and the walls and with layers it's possible to place both on the same grid. In the TileSet Physics Layers can be defined and collision shapes drawn. 
 
-In the TileSet 
+An example of a TileMap can look like this:
+
 
 ## Collision Layers and Masks
 Collision Layers and Masks help to determine which CollisionObject can collide with which other CollisionObject. The Layers are named numerically, but can be given an alternative name in the project settings under Layer Names -> 2D Physics. 
