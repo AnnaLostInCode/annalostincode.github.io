@@ -44,11 +44,11 @@ To ensure that values, which are modified every time the process function is cal
 
 To ensure the game is running the same speed for every pc we multiply by delta. The amount of pixel of movement are at every framerate 10px/s, but for higher framerates the movement per frame is smaller to compensate. 
 
-| desired speed | fps | delta | original movement       | normalized movement                  |
-| ------------- | --- | ----- | ----------------------- | ------------------------------------ |
-| 10px          | 30  | 1/30  | 10px * 30fps = 300px/s  | 10px \* 30fps \* 1s/30fps = 10px/s   |
-| 10px          | 60  | 1/60  | 10px * 60fps = 600px/s  | 10px \* 60fps \* 1s/60fps = 10px/s   |
-| 10px          | 120 | 1/120 | 10px * 120fps = 120px/s | 10px \* 120fps \* 1s/120fps = 10px/s |
+| desired speed | fps | delta | original movement        | normalized movement                  |
+| ------------- | --- | ----- | ------------------------ | ------------------------------------ |
+| 10px          | 30  | 1/30  | 10px * 30fps = 300px/s   | 10px \* 30fps \* 1s/30fps = 10px/s   |
+| 10px          | 60  | 1/60  | 10px * 60fps = 600px/s   | 10px \* 60fps \* 1s/60fps = 10px/s   |
+| 10px          | 120 | 1/120 | 10px * 120fps = 1200px/s | 10px \* 120fps \* 1s/120fps = 10px/s |
 
 ## Input
 Inputs can be assigned to actions in the project settings. Later actions can be checked with the Input field. One example being:
@@ -93,7 +93,7 @@ TileMaps contain a sample of tiles, which are used to create grid based maps. It
 
 Tile maps can have several Layers. That means a TileMap for a house can have the ground and the walls and with layers it's possible to place both on the same grid. In the TileSet physics layers can be defined and collision shapes drawn. 
 
-An example of a TileMap can look like this:
+An example of a TileMap might look like this:
 
 ![tilemap Example](https://raw.githubusercontent.com/AnnaLostInCode/annalostincode.github.io/0de7bc50782e02efdc89cf224fdb22a574232827/content/resources/Dungeon_Tileset.png)
 
