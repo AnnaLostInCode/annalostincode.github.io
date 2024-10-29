@@ -92,4 +92,6 @@ func _process(_delta):
 
 
 ## Collision Layers and Masks
-Collision Layers and Masks help to determine which CollisionObject can collide with which other CollisionObject. The Layers are named numerically, but can be given an alternative name in the project settings. 
+Collision Layers and Masks help to determine which CollisionObject can collide with which other CollisionObject. The Layers are named numerically, but can be given an alternative name in the project settings under Layer Names -> 2D Physics. 
+
+Setting the layer determines which layer the RigidBody2D is on and setting the mask determines which other object layers can collide with it. For example projectiles should be able to collide with players, enemies and walls. 
