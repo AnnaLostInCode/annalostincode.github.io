@@ -37,7 +37,13 @@ url = "/posts/passerelle/"
 weight = 2
 
 [[menu.main]]
+identifier = "gaming"
+name = "Gaming"
+url = "/posts/gaming/"
+weight = 3
+
+[[menu.main]]
 identifier = "about"
 name = "About"
 url = "/about/"
-weight = 3
+weight = 4

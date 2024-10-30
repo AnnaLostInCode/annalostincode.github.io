@@ -1,5 +1,5 @@
 +++
-title = 'Godot - Summary'
+title = '🤖 Godot - Summary'
 date = 2024-10-21
 +++
 

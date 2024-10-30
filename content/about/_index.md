@@ -1,6 +1,6 @@
 ## 👋 Hi there
 
-I am a programmer, gamer, boulderer and this is my website. 
+I am a programmer, gamer, boulderer and this is my website. This website is entirely experimental and is only a reference for myself. It is nowhere near stable and can always change or be taken down entirely. Enjoy whatever it is, while it lasts. 
 
 ## ⚙ Technologies
 
