@@ -1,6 +1,7 @@
 +++
 title = '{{date}} - game'
 date = {{date}}
+draft = true
 +++
 
 Experience: ⭐⭐⭐⭐⭐
