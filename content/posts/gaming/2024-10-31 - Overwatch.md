@@ -1,5 +1,5 @@
 +++
-title = '2024-10-31 - Overwatch'
+title = '🎮 2024-10-31 - Overwatch'
 date = 2024-10-31
 +++
 

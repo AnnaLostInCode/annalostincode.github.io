@@ -1,5 +1,5 @@
 +++
-title = '2024-10-31 - Sonic x Shadow Generations'
+title = '🎮 2024-10-31 - Sonic x Shadow Generations'
 date = 2024-10-31
 +++
 

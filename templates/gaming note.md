@@ -1,5 +1,5 @@
 +++
-title = '{{date}} - game'
+title = '🎮 {{date}} - game'
 date = {{date}}
 draft = true
 +++
