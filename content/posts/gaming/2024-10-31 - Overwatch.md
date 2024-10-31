@@ -13,6 +13,4 @@ What I did:
 What I wanna do next time:
 - Do some more weekly challenges
 - keep practicing juno
-
-Notes or special Moments:
-- 
+ 
