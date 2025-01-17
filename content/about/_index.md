@@ -29,4 +29,3 @@ I am a programmer, gamer, boulderer and this is my website. This website is enti
 ## ☎ Contact
 
 - 🔗 <anna.emmenegger.xs@gmail.com>
-- 🔗 [Bluesky](https://bsky.app/profile/annalostinspace.bsky.social)
