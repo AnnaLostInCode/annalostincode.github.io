@@ -11,8 +11,11 @@ date = 2025-01-17
 4. Demokratie
 
 ## Zeit der Weltkriege
-## 1. Weltkrieg
+## Der Erste Weltkrieg (1914–1918)
 
+## Der Landesstreik (1918)
+
+## Die Zwischenkriegsjahre (1918–1939)
 
 
 # Weltgeschichte von der Mitte des 19. Jahrhunderts bis heute
