@@ -10,6 +10,11 @@ date = 2025-01-17
 3. Nachkriegszeit
 4. Demokratie
 
+## Zeit der Weltkriege
+## 1. Weltkrieg
+
+
+
 # Weltgeschichte von der Mitte des 19. Jahrhunderts bis heute
 
 5. Grundideen des 19. Jahrhunderts
