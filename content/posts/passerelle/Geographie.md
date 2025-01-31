@@ -10,6 +10,9 @@ date = 2025-01-17
 2. Geomorphologie: exogene Prozesse, Naturgefahren
 3. Gesteine, Kreislauf der Gesteine
 
+### Geologische Zeittafel
+
+
 ## Geologie der Schweiz
 
 4. Alpen (Zentralmassive, Deckenbau), Jura (tektonische Gliederung, Oberflächenformen), Mittelland (Tertiär und Quartär)
