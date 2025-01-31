@@ -12,6 +12,45 @@ date = 2025-01-17
 
 ### Geologische Zeittafel
 
+<table>
+    <thead>
+        <tr>
+            <th>Äon</th>
+            <th>Ära</th>
+            <th>Periode</th>
+            <th>Alter (mya)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=12>Phanerozoikum</td>
+            <td rowspan=3>Käno­zoikum, Erdneuzeit</td>
+            <td>Quartär</td>
+            <td>0 - 2.588</td>
+        </tr>
+        <tr>
+            <td>Neogen</td>
+            <td>2.588 - 23.03</td>
+        </tr>
+        <tr>
+            <td>Paläogen</td>
+            <td>23.03 - 66</td>
+        </tr>
+        <tr>
+            <td rowspan=3>Mesozoikum, Erdmittelalter</td>
+            <td>Kreide</td>
+            <td>66</td>
+        </tr>
+        <tr>
+            <td>Jura</td>
+            <td>145</td>
+        </tr>
+        <tr>
+            <td>Trias</td>
+            <td>201.3</td>
+        </tr>
+    </tbody>
+</table>
 
 ## Geologie der Schweiz
 
