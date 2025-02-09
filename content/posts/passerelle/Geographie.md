@@ -144,38 +144,51 @@ date = 2025-01-17
 See: https://de.wikipedia.org/wiki/Geologische_Zeitskala
 
 ## Geologie der Schweiz
+### Alpen
+#### Zentralmassive
+- Mercantour
+- Pelvoux
+- Belle Donne
+- Mont Blanc
+- Aiguilles Rouges
+- Gotthard
+- Aarmassiv
 
-4. Alpen (Zentralmassive, Deckenbau), Jura (tektonische Gliederung, Oberflächenformen), Mittelland (Tertiär und Quartär)
+#### Deckenbau
+
+
+1. Alpen (Zentralmassive, Deckenbau), Jura (tektonische Gliederung, Oberflächenformen), Mittelland (Tertiär und Quartär)
+
 
 ## Grundlagen der Klimatologie
 
-5. Wetter und Klima, Klimaelemente, Klimafaktoren
-6. Klimadiagramme, Klimaklassifikation (Klimazonen der Erde)
-7. Klimaschwankungen und Klimawandel
+2. Wetter und Klima, Klimaelemente, Klimafaktoren
+3. Klimadiagramme, Klimaklassifikation (Klimazonen der Erde)
+4. Klimaschwankungen und Klimawandel
 
 # Wirtschaft, Gesellschaft und Umwelt
 ## Wirtschaftsgeographie
 
-8. Wirtschaftssektoren, Landwirtschaft, Energie
+5. Wirtschaftssektoren, Landwirtschaft, Energie
 
 ## Verkehr und Raum
 
-9. Aufgaben der Raum- und Verkehrsplanung: Richt- und Nutzungszonenpläne nach den Grundsätzen des schweizerischen Raumplanungsgesetzes
-10. Verkehrspolitik der Schweiz
+6. Aufgaben der Raum- und Verkehrsplanung: Richt- und Nutzungszonenpläne nach den Grundsätzen des schweizerischen Raumplanungsgesetzes
+7. Verkehrspolitik der Schweiz
 
 ## Entwicklungsfragen
 
-11. Weltwirtschaft, Entwicklung und Umwelt
+8. Weltwirtschaft, Entwicklung und Umwelt
 
 ## Demographie
 
-12. Bevölkerungsentwicklung, demographischer Übergang, Migration, Alterstrukturen («Bevölkerungspyramiden»)
+9. Bevölkerungsentwicklung, demographischer Übergang, Migration, Alterstrukturen («Bevölkerungspyramiden»)
 
 ## Stadtgeographie
 
-13. Stadtbegriff, Stadtentwicklung (Urbanisierung, Suburbanisierung, Reurbanisierung), Stadtmodelle, Megastädte
+10. Stadtbegriff, Stadtentwicklung (Urbanisierung, Suburbanisierung, Reurbanisierung), Stadtmodelle, Megastädte
 
 # Regionalgeographie
 ## China
 
-14. Topographische Übersicht, naturgeographische Grundlagen, Bevölkerung, wirtschaftliche Schwerpunktregionen und Randgebiete, Industrialisierung, China im regionalen und globalen Umfeld
+11. Topographische Übersicht, naturgeographische Grundlagen, Bevölkerung, wirtschaftliche Schwerpunktregionen und Randgebiete, Industrialisierung, China im regionalen und globalen Umfeld
