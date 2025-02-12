@@ -3,13 +3,6 @@ title = 'Geographie'
 date = 2025-01-17
 +++
 
-# Naturgeographische Bausteine
-## Allgemeine Geologie
-
-1. Geologische Zeittafel, Aufbau der Erde, Plattentektonik, Vulkanismus, Erdbeben
-2. Geomorphologie: exogene Prozesse, Naturgefahren
-3. Gesteine, Kreislauf der Gesteine
-
 ### Geologische Zeittafel
 
 <table>
@@ -143,52 +136,3 @@ date = 2025-01-17
 </table>
 See: https://de.wikipedia.org/wiki/Geologische_Zeitskala
 
-## Geologie der Schweiz
-### Alpen
-#### Zentralmassive
-- Mercantour
-- Pelvoux
-- Belle Donne
-- Mont Blanc
-- Aiguilles Rouges
-- Gotthard
-- Aarmassiv
-
-#### Deckenbau
-
-
-1. Alpen (Zentralmassive, Deckenbau), Jura (tektonische Gliederung, Oberflächenformen), Mittelland (Tertiär und Quartär)
-
-
-## Grundlagen der Klimatologie
-
-2. Wetter und Klima, Klimaelemente, Klimafaktoren
-3. Klimadiagramme, Klimaklassifikation (Klimazonen der Erde)
-4. Klimaschwankungen und Klimawandel
-
-# Wirtschaft, Gesellschaft und Umwelt
-## Wirtschaftsgeographie
-
-5. Wirtschaftssektoren, Landwirtschaft, Energie
-
-## Verkehr und Raum
-
-6. Aufgaben der Raum- und Verkehrsplanung: Richt- und Nutzungszonenpläne nach den Grundsätzen des schweizerischen Raumplanungsgesetzes
-7. Verkehrspolitik der Schweiz
-
-## Entwicklungsfragen
-
-8. Weltwirtschaft, Entwicklung und Umwelt
-
-## Demographie
-
-9. Bevölkerungsentwicklung, demographischer Übergang, Migration, Alterstrukturen («Bevölkerungspyramiden»)
-
-## Stadtgeographie
-
-10. Stadtbegriff, Stadtentwicklung (Urbanisierung, Suburbanisierung, Reurbanisierung), Stadtmodelle, Megastädte
-
-# Regionalgeographie
-## China
-
-11. Topographische Übersicht, naturgeographische Grundlagen, Bevölkerung, wirtschaftliche Schwerpunktregionen und Randgebiete, Industrialisierung, China im regionalen und globalen Umfeld
