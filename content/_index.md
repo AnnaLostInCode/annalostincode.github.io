@@ -1,1 +1,0 @@
-This is where most things I post will appear. For specific topics check the menu. 

@@ -1,1 +1,0 @@
-Ich habe vor, die Passerelle Prüfung im Sommer 2025 abzuschliessen. Notizen und Zusammenfassungen möchte ich hier publizieren. 
